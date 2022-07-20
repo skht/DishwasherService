@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: dishwasherService
+netty:
+  default:
+    allocator:
+      max-order: 3
